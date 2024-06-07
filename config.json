@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "wadibo8391@bsomek.com",
+    "password": "@tria.",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -27,10 +27,10 @@
   },
   "OWNER": "Cliff Vincent",
   "AGE": "18",
-  "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "GENDER": "FEMALE",
+  "nickNameBot": "jajabot",
+  "FACEBOOK": "https://www.facebook.com/djsxty",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
